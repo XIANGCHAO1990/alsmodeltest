@@ -1,1 +1,1 @@
-# alsmodeltest
+利用movielen的数据进行pyspark ALS模型测试的代码
